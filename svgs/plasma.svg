@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg881"
+   sodipodi:docname="plasma.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.71418111"
+     inkscape:cx="532.20253"
+     inkscape:cy="612.44436"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg881" />
+  <defs
+     id="defs875" />
+  <metadata
+     id="metadata878">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g845">
+    <g
+       id="layer1">
+      <path
+         id="path847"
+         style="fill:none;stroke:#000000;stroke-width:0.433277px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 110.65913,61.42988 C 96.02656,66.341735 81.447302,73.054758 71.907979,85.48041 54.995325,104.5481 41.095445,126.63429 33.320774,150.80943 c -3.699379,18.10989 -9.024502,38.18621 0.735225,55.44478 5.60734,12.96853 21.324654,14.83899 33.458028,18.63892 18.93114,4.7596 41.049363,6.59189 57.523253,-5.75119 6.99091,-6.34353 29.32268,-11.17555 16.97375,-21.95592 1.86267,-8.01432 17.51529,-4.91144 12.56808,3.67204 13.66262,-3.85257 21.20757,-16.42157 26.52949,-28.33296 8.37531,-13.18258 12.85592,-28.72674 10.50672,-44.26077 0.11443,-14.53049 -6.79619,-28.17416 -15.99948,-39.112832 C 157.37924,74.464416 135.83211,58.181602 110.65913,61.42988 Z" />
+      <path
+         id="path847-8"
+         style="fill:#ffe6d5;stroke:#000000;stroke-width:0.424217px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 110.81999,63.536733 C 96.464176,68.360793 82.204333,75.016735 72.883148,87.229924 56.414035,105.90137 42.996558,127.49455 35.211157,151.04511 c -3.493233,18.26369 -9.069899,38.58931 1.402998,55.74774 5.951095,12.11431 20.903878,13.50264 32.541008,17.26781 18.529469,4.72466 40.235377,6.1701 56.214477,-6.07535 6.12172,-5.90968 28.76295,-11.17361 15.99112,-20.11529 2.97562,-12.04345 15.93911,-1.35262 14.45085,1.86835 16.51875,-6.27113 21.67726,-23.99362 29.35342,-37.85978 7.48945,-15.06875 5.73558,-32.67337 2.26906,-48.5089 C 182.87788,101.0975 175.47304,89.510014 163.8832,82.582527 148.78721,71.250359 130.62828,60.868565 110.81999,63.536733 Z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="22.598724"
+       y="38.158504"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="22.598724"
+         y="38.158504"
+         style="stroke-width:0.264583">plasma membrane</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9525;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 76.317008,44.086039 C 90.394903,65.943823 92.802965,68.537121 92.802965,68.537121"
+       id="path837"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
